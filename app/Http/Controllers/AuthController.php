@@ -16,11 +16,11 @@ class AuthController extends Controller
     public function index()
     {
         return[
-            'NIS' => '3103119038',
-            'Name' => 'Bagas Surahman',
-            'Gender' => 'Laki-laki',
-            'Phone' => '085335098805',
-            'Class' => 'XII RPL 2',
+            'NIS' => '3103119154',
+            'Name' => 'Rakyan Jenar Sakuntala',
+            'Gender' => 'Perempuan',
+            'Phone' => '0895377180111',
+            'Class' => 'XII RPL 5',
         ];
     }
 
